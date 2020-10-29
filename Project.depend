@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1602960565 source:e:\documents\codeblocksprojects\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"abb-refeito.h"
+	"avltree-refeita.h"
+
+1602894816 e:\documents\codeblocksprojects\project\include\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1602857824 e:\documents\codeblocksprojects\project\include\stack.h
+
+1602799031 e:\documents\codeblocksprojects\project\include\exercises-two.h
+
+1602816158 e:\documents\codeblocksprojects\project\include\ab.h
+
+1602863432 e:\documents\codeblocksprojects\project\include\abb.h
+
+1602892172 e:\documents\codeblocksprojects\project\include\abb-refeito.h
+
+1602895676 e:\documents\codeblocksprojects\project\include\avltree-refeita.h
+
